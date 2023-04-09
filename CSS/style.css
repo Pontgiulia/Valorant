@@ -1,0 +1,75 @@
+header{
+    width: 100%;
+    background-color: rgb(254, 67, 87);
+}
+
+body{
+    background-color: rgb(236, 231, 225);
+}
+
+h1{
+    color: rgb(254, 67, 87);
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    color: rgb(124, 55, 233);
+}
+
+h3{
+    color: rgb(129, 178, 20);
+}
+
+h5{
+    color:rgb(236, 231, 225)
+}
+
+article{
+    color: rgb(254, 67, 87);
+}
+
+
+
+div{
+    color: rgb(254, 67, 87);
+}
+
+nav{
+    text-align: center;
+    color: rgb(254, 67, 87);
+    font-size: 1.5em;
+}
+
+p{
+    color: rgb(95, 24, 33);
+}
+
+footer{
+    background-color: rgb(254, 67, 87);
+    color:rgb(254, 67, 87)
+}
+
+.logo{
+    text-align: center;
+    color: rgb(254, 67, 87);
+    font-size: 1.5em;
+}
+
+.banner{
+    width: 100%;
+}
+
+.logimg{
+    width: 50%
+}
+
+.container{
+    background-color:rgb(236, 231, 225);
+    width: 80%;
+    margin: auto;
+}
+
+.nome{
+    color: rgb(254, 67, 87)
+}
