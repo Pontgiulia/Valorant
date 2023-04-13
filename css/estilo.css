@@ -4,7 +4,7 @@ header{
 }
 
 body{
-    background-color: rgb(236, 231, 225);
+    background-color: rgb(0, 0, 0);
 }
 
 h1{
@@ -42,7 +42,7 @@ nav{
 }
 
 p{
-    color: rgb(95, 24, 33);
+    color: rgb(236, 231, 225);
 }
 
 footer{
@@ -65,7 +65,7 @@ footer{
 }
 
 .container{
-    background-color:rgb(236, 231, 225);
+    background-color: rgb(0, 0, 0);
     width: 80%;
     margin: auto;
 }
