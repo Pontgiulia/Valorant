@@ -40,7 +40,7 @@ div{
 nav{
     text-align: center;
     color: rgb(254, 67, 87);
-    font-size: 1.5em;
+    font-size: 1em;
 }
 
 p{
@@ -66,11 +66,13 @@ li{
 .logo{
     text-align: center;
     color: rgb(254, 67, 87);
-    font-size: 1.5em;
+    font-size: 1em;
 }
 
 .banner{
-    width: 100%;
+    width: 80%;
+    padding-top: 0.5%;
+    padding-left: 10%;
 }
 
 .logimg{
