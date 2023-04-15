@@ -56,6 +56,9 @@ section{
     padding: 0.5%;
 }
 
+li{
+    color: rgb(236, 231, 225);
+}
 .final{
     color: rgb(95, 24, 33);
 }
