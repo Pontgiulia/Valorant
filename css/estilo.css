@@ -10,11 +10,15 @@ body{
 h1{
     color: rgb(254, 67, 87);
     text-align: center;
+    padding-top: 1%;
+    padding-bottom: 1%;
 }
 
 h2{
     text-align: center;
-    color: rgb(124, 55, 233);
+    color: rgb(95, 24, 33);
+    padding-top: 1%;
+    padding-bottom: 1%;
 }
 
 h3{
@@ -53,7 +57,7 @@ section{
 }
 
 .final{
-    color: rgb(236, 231, 225);
+    color: rgb(95, 24, 33);
 }
 
 .logo{
