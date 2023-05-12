@@ -6,6 +6,7 @@ header{
 
 body{
     background-color: rgb(198, 193, 186);
+    font-family: 'Josefin Sans', sans-serif;
 }
 
 h1{
@@ -87,4 +88,8 @@ li{
 
 .nome{
     color: rgb(254, 67, 87)
+}
+
+.agente{
+    width: 20%;
 }
