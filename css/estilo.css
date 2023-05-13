@@ -6,9 +6,9 @@ header{
 
 body{
     background-color: rgb(198, 193, 186);
-    font-family: 'Josefin Sans', sans-serif;
 }
 
+/*titulo*/
 h1{
     color: rgb(254, 67, 87);
     text-align: center;
@@ -16,6 +16,7 @@ h1{
     padding-bottom: 1%;
 }
 
+/*subtitulo*/
 h2{
     text-align: center;
     color: rgb(95, 24, 33);
@@ -23,22 +24,12 @@ h2{
     padding-bottom: 1%;
 }
 
+/*nomes*/
 h3{
     color: rgb(254, 67, 87);
 }
 
-h5{
-    color: rgb
-}
-
-article{
-    color: rgb(254, 67, 87);
-}
-
-div{
-    color: rgb(254, 67, 87);
-}
-
+/*links*/
 nav{
     text-align: center;
     color: rgb(254, 67, 87);
@@ -54,6 +45,7 @@ footer{
     background-color:rgb(0, 0, 0);
 }
 
+/*Em section estao os articles e informacoes sobre personagens e funcoes*/ 
 section{
     padding: 0.5%;
 }
@@ -62,34 +54,37 @@ li{
     color: rgb(0, 0, 0);
     line-height: 1.5em;
 }
+
+/*Classe do footer*/
 .final{
     color: rgb(254, 67, 87);
 }
 
+/*Classe do div para a logo*/
 .logo{
     text-align: center;
     color: rgb(254, 67, 87);
     font-size: 1em;
 }
 
+/*Classe da imagem do banner*/
 .banner{
     width: 100%;
 }
 
-.logimg{
-    width: 50%
-}
-
+/*Classe do div para conter as informacoes*/
 .container{
     background-color: rgb(236, 231, 225);
     width: 80%;
     margin: auto;
 }
 
+/*Classe para o nome dos personagens*/
 .nome{
     color: rgb(254, 67, 87)
 }
 
+/*Classe para imagem dos personagens*/
 .agente{
     width: 20%;
 }
