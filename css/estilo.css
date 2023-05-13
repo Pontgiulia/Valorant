@@ -88,3 +88,27 @@ li{
 .agente{
     width: 20%;
 }
+
+/*Estilo dos links*/
+
+/*Link ser tem sido visitado*/
+a.menu:link{
+    color: rgb(254, 67, 87);
+    text-decoration: none;
+}
+
+/*Link visitado*/
+a.menu:visited{
+    color: rgb(95, 24, 33);
+}
+
+/*Quando o mouse passar por cima do link*/
+a.menu:hover{
+    color: rgb(254, 67, 87);
+   background: rgb(95, 24, 33);
+}
+
+/*Quando o link é ativadoc*/
+a.menu:active{
+    color: rgb(236, 231, 225);
+}
