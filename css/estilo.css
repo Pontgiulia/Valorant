@@ -74,11 +74,6 @@ footer{
     font-size: 1em;
 }
 
-/*Classe da imagem do banner*/
-.banner{
-    width: 100%;
-}
-
 /*Classe do div para conter as informacoes*/
 .container{
     background-color: rgb(236, 231, 225);
@@ -95,6 +90,18 @@ footer{
 .agente{
     width: 20%;
 }
+
+/*Classe da imagem do banner*/
+.banner{
+    width: 100%;
+}
+
+.mapa{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
 
 /*Estilo dos links*/
 
