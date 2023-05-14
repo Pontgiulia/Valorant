@@ -119,6 +119,7 @@ a.menu:visited{
 /*Quando o mouse passar por cima do link*/
 a.menu:hover{
     color: rgb(254, 67, 87);
+    font-size: 150%;
 }
 
 /*Quando o link é ativadoc*/
