@@ -65,6 +65,16 @@ footer{
     background-color:rgb(0, 0, 0);
 }
 
+.linha{
+    display: flex;
+    flex-flow: row wrap;
+    text-align: center;
+}
+
+.col-6 {
+    width: 50%;
+}
+
 /*Classe do paragrafo no footer*/
 .final{
     color: rgb(254, 67, 87);
