@@ -103,14 +103,20 @@ footer{
 /*Classe para imagem dos personagens*/
 .agente{
     width: 20%;
-   
-
 }
 
 /*Classe da imagem do banner*/
 .banner{
     width: 100%;
 }
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 2%;
+    width: 50%;
+  }
 
 .primapa{
     float: left;
