@@ -7,7 +7,7 @@ header{
     background-color: rgb(0, 0, 0);
     padding-bottom: 1%;
     padding-top: 1%;
-    background-image: linear-gradient(to bottom right, rgb(254, 67, 87), rgb(95, 24, 33));
+    background-image: linear-gradient(rgb(254, 67, 87), rgb(95, 24, 33));
 }
 
 body{
@@ -93,7 +93,7 @@ footer{
     background-color: rgb(236, 231, 225);
     width: 80%;
     margin: auto;
-    border: 1px solid rgb(95, 24, 33);
+    border: 2px solid rgb(95, 24, 33);
 }
 
 /*Classe para o nome dos personagens*/
@@ -146,12 +146,12 @@ a.menu:link{
 
 /*Link visitado*/
 a.menu:visited{
-    color: rgb(95, 24, 33);
+    color: rgb(236, 231, 225);
 }
 
 /*Quando o mouse passar por cima do link*/
 a.menu:hover{
-    color: rgb(254, 67, 87);
+    color: rgb(198, 193, 186);
     font-size: 150%;
 }
 
