@@ -84,7 +84,7 @@ footer{
 /*Classe do div para a logo*/
 .logo{
     text-align: center;
-    color: rgb(254, 67, 87);
+    color: rgb(95, 24, 33);
     font-size: 1em;
 }
 
@@ -140,7 +140,7 @@ footer{
 
 /*Link ser ter sido visitado*/
 a.menu:link{
-    color: rgb(254, 67, 87);
+    color: rgb(198, 193, 186);
     text-decoration: none;
 }
 
@@ -159,3 +159,21 @@ a.menu:hover{
 a.menu:active{
     color: rgb(236, 231, 225);
 }
+
+/*Tabelas*/
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid rgb(95, 24, 33);
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: rgb(198, 193, 186);
+  }
