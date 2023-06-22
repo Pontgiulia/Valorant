@@ -76,6 +76,12 @@ footer{
     width: 50%;
 }
 
+.pessoa{
+    width: 30%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
 /*Classe do paragrafo no footer*/
 .final{
     color: rgb(254, 67, 87);
