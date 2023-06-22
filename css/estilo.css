@@ -80,7 +80,6 @@ footer{
     width: 30%;
     padding-top: 1%;
     padding-bottom: 1%;
-    padding-right: 1%;
 }
 
 /*Classe do paragrafo no footer*/
@@ -183,4 +182,13 @@ table {
   
   tr:nth-child(even) {
     background-color: rgb(198, 193, 186);
+  }
+
+  /*Form*/
+  input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid rgb(95, 24, 33);
   }
