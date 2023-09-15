@@ -88,7 +88,7 @@ footer{
 }
 
 /*Classe do div para a logo*/
-.logo{
+.dogo{
     text-align: center;
     color: rgb(95, 24, 33);
     font-size: 1em;
@@ -193,3 +193,45 @@ table {
     box-sizing: border-box;
     border: 2px solid rgb(95, 24, 33);
   }
+
+  /*menu responsivo*/
+
+  @media screen and (min-width:791px) {
+    header{
+        flex-direction: row;
+    }
+    .nananav{
+        width: 70%;
+        padding-top: 2em;
+    }
+    .nananav ul li{
+        display: inline;
+        margin-left: 1%;
+    }
+
+    .logo{
+        width: 10%;
+        float: left;
+        padding-left: 5%;
+    }
+}
+
+@media screen and (max-width:790px) {
+    .logo{
+        text-align: center;
+        width: 50%;
+        margin: auto;
+        display: block;
+    }
+
+    .nananav{
+        padding-right: 2em;
+        font-size: 1em;
+    }
+    .imagens{
+        width: 80%;
+    }
+    .meca{
+        width: 70%;
+    }
+}
