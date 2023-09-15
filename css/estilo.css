@@ -204,10 +204,14 @@ table {
     .nananav{
         width: 70%;
         padding-top: 2em;
+        padding-left: 14%;
+        text-align: center;
     }
     .nananav ul li{
         display: inline;
         margin-left: 1%;
+        font-size: 200%;
+        text-align: center;
     }
 
     .logo{
@@ -219,19 +223,14 @@ table {
 @media screen and (max-width:790px) {
     .logo{
         text-align: center;
-        width: 50%;
+        width: 5%;
         margin: auto;
         display: block;
     }
 
     .nananav{
-        padding-right: 2em;
+        padding: 1%;
         font-size: 1em;
-    }
-    .imagens{
-        width: 80%;
-    }
-    .meca{
-        width: 70%;
+        text-align: center;
     }
 }
