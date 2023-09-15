@@ -6,7 +6,6 @@ header{
     width: 100%;
     background-color: rgb(0, 0, 0);
     padding-bottom: 1%;
-    padding-top: 1%;
     background-image: linear-gradient(rgb(254, 67, 87), rgb(95, 24, 33));
 }
 
@@ -80,6 +79,7 @@ footer{
     width: 30%;
     padding-top: 1%;
     padding-bottom: 1%;
+    padding: 1%;
 }
 
 /*Classe do paragrafo no footer*/
@@ -92,6 +92,7 @@ footer{
     text-align: center;
     color: rgb(95, 24, 33);
     font-size: 1em;
+    padding: 2%;
 }
 
 /*Classe do div para conter as informacoes*/
@@ -210,9 +211,8 @@ table {
     }
 
     .logo{
-        width: 10%;
+        width: 7%;
         float: left;
-        padding-left: 5%;
     }
 }
 
