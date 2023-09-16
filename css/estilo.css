@@ -240,3 +240,70 @@ table {
         text-align: center;
     }
 }
+
+/*forms*/
+form{
+    padding-top: 2%;
+    padding-bottom: 6%;
+}
+
+label {
+    padding: 4%;
+    font-size: 1.2em;
+    display: inline-block;
+    color: rgb(254, 67, 87);
+}
+
+input[type=text], select, textarea, input[type=email], input[type=tel]{
+    width: 90%;
+    padding: 1%;
+    border: 1px solid rgb(95, 24, 33);
+    border-radius: 15px;
+    resize: vertical;
+}
+
+ 
+.col-25{
+    width: 25%;
+    float: left;
+    margin-top: 6px;
+
+}
+.col-75{
+    width: 75%;
+    float: left;
+    margin-top: 20px;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+input[type=submit] {
+  background-color: rgb(254, 67, 87);
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 5em;
+  cursor: pointer;
+  float: right;
+  margin-right: 10px;
+
+}
+
+input[type=submit]:hover {
+  background-color:rgb(254, 67, 87);
+  font-weight: bolder;
+}
+
+@media screen and (min-width: 790px) {
+    .col-25, .col-75, input[type=reclamações] {
+      width: 100%;
+      margin-top: 0;
+    }
+    form{
+        margin-top: 5%;
+    }
+}
