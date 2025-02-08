@@ -149,7 +149,8 @@ footer{
 .logos{
     width: 32px;
     height: 32px;
-    padding: 10px;
+    margin: 50px;
+    box-shadow: -2px 2px 5px rgb(105, 40, 49);
 }
 
 
